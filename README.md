@@ -1,4 +1,4 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+# Introduction
 
 Welcome to **my** repository for my data science blog.
 
