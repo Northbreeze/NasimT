@@ -1,5 +1,5 @@
 title: Nasim's Data Science Blog
-theme: minima
+theme: jekyll-theme-cayman
 author: GitHub User
 email: nasim.taba2@gmail.com  
 description: > # this means to ignore newlines until "baseurl:"
