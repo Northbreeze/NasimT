@@ -2,8 +2,7 @@ title: Nasim's Data Science Blog
 theme: jekyll-theme-cayman
 author: GitHub User
 email: nasim.taba2@gmail.com  
-description: > # this means to ignore newlines until "baseurl:"
-My passion is Data Science. Here I'd like to share my learning and experiences with you.
+description: My passion is Data Science. Here I'd like to share my learning and experiences with you.
 
 # social links
 twitter_username: Nasimtaba # DO NOT include the @ character, or else the build will fail!
